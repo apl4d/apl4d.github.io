@@ -10,14 +10,19 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'About'
-      url: '/about'
+#    - title: 'About'
+#      url: '/about'
     - title: 'Teaching'
       url: '/teaching'
+    - title: 'Research'
+      url: '/research'
     - title: 'Projects'
       url: '/projects'
-    - title: 'Latest'
-      url: '/blog'
+    - title: 'CV'
+      url: '/images/downloads/Appleford_CV.pdf'
+
+#    - title: 'Latest'
+#      url: '/blog'
 
 grid_settings:
   grid_spacing: 10
